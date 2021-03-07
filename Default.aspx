@@ -7,7 +7,7 @@
 
 <html lang="en">
 <head>
-    Im testing to see if git works
+   
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -157,10 +157,10 @@
     </div>
 
     <script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>
-    <script src="desktop.js"></script>
-    <script>
-</script>
-
+        <script src="desktop.js"></script>
+        
+        
+         
        
         
         <telerik:RadSkinManager ID="RadSkinManager1" Runat="server" ShowChooser="False">
@@ -170,8 +170,8 @@
                   
             
                 
-         <telerik:RadScriptManager ID="scriptManager" runat="server"></telerik:RadScriptManager>
-     
+ <telerik:RadScriptManager ID="scriptManager" runat="server"></telerik:RadScriptManager>        
+     </form>
 
         <div style="width: 2400px; margin: 4px;">
 
@@ -207,7 +207,7 @@
 
 
 
-    </form>
+   
      
 
 

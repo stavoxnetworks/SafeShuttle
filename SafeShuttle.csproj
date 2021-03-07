@@ -105,6 +105,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Program Files (x86)\Progress\Telerik UI for ASP.NET AJAX R1 2021\Bin45\Telerik.Web.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Telerik.Web.UI.Skins">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Progress\Telerik UI for ASP.NET AJAX R1 2021\Bin45\Telerik.Web.UI.Skins.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
